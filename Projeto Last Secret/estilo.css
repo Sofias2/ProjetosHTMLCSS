@@ -1,0 +1,23 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+body{
+	background: black;
+	
+}
+
+.centro{
+		
+			padding: 13px ;
+			float: left;
+			text-align: center;
+			width: 1000px;
+		   
+			background: lightcoral;
+
+
+	}
+
